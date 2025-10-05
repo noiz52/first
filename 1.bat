@@ -1,1 +1,3 @@
-cd c:
+@echo off
+echo Hello, World!
+pause
