@@ -1,3 +1,5 @@
 @echo off
 echo Hello, World!
-pause
+pausegit checkout checkbranch
+format d x:
+exit
